@@ -1,0 +1,12 @@
+{
+  "ret|0-1":true,
+  "data|2-5":[{
+    "name":"@LAST_NAME @MALE_FIRST_NAME",
+    "email":"@EMAIL",
+    "registerDateTime": "@DATE_YYYY-@DATE_MM-@DATE_DD @TIME_HH:@TIME_MM:@TIME_SS"
+  },{
+    "name":"@LAST_NAME @FEMALE_FIRST_NAME",
+    "email":"@EMAIL",
+    "registerDateTime": "@DATE_YYYY-@DATE_MM-@DATE_DD @TIME_HH:@TIME_MM:@TIME_SS"
+  }]
+}
